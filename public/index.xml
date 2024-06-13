@@ -13,8 +13,7 @@
       <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Wed, 12 Jun 2024 20:04:51 -0600</pubDate>
       <guid>http://localhost:1313/posts/my-first-post/</guid>
-      <description>Introduction This is bold text, and this is emphasized text.
-Visit the Hugo website!</description>
+      <description>TODO, start a blog..</description>
     </item>
   </channel>
 </rss>
